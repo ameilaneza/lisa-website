@@ -1,0 +1,38 @@
+.k {
+    background-color: rgb(15, 15, 16);
+    color: white;
+}
+
+.foto {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+body {
+    background-color: rgb(149, 73, 73);
+    color: white;
+    opacity: 1;
+    /*the smaller the value the more hidden the html elements are*/
+    margin: 0;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    width: 100%;
+    height: 100vh;
+    border-collapse: collapse;
+}
+
+#welcome-text {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
